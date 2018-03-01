@@ -1,0 +1,12 @@
+platzimusic/.DS_Store
+platzimusic/node_modules/
+platzimusic/dist/
+platzimusic/npm-debug.log
+platzimusic/yarn-error.log
+
+# Editor directories and files
+platzimusic/.idea
+platzimusic/*.suo
+platzimusic/*.ntvs*
+platzimusic/*.njsproj
+platzimusic/*.sln
