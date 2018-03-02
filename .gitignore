@@ -1,6 +1,6 @@
 platzimusic/.DS_Store
 platzimusic/node_modules/
-platzimusic/dist/
+#platzimusic/dist/
 platzimusic/npm-debug.log
 platzimusic/yarn-error.log
 
